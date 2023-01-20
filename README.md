@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Willochs Ojigbo - [Github](https://github.com/tochi26) / [Twitter](https://twitter.com/official_tochy)  
+Tochukwu Nzewi - [Github](https://github.com/tochi26) / [Twitter](https://twitter.com/official_tochy)  
 
 Second part of Airbnb: Joann Vuong
 ## License
